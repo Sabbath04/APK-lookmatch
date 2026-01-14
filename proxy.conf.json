@@ -1,0 +1,8 @@
+{
+  "/api": {
+    "target": "http://backdev.lan:8080",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}

@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  loginunificado-front:
+    build: .
+    ports:
+      - "80:80"
+    container_name: loginunificado-front
